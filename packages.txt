@@ -1,0 +1,4 @@
+- easyocr v1.7.1
+- matplotlib v3.8.0
+- opencv-python v4.9.0.80
+- pandas v2.1.2
