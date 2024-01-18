@@ -20,7 +20,7 @@ This repository contains the code for a system that converts any given image wit
 
 - The code in the repository was tested with Python 3.11.4.
 
-- The packages I used to run the code in this project are listed in [packages.txt](packages.txt) . To install the requirements using The standard package manager for Python *PIP*, run the following at the Terminal command (if you are running JUPYTER notebook on VSCode)
+- The packages I used to run the code in this project are listed in [packages.txt](packages.txt) . To install the requirements using The standard package manager for Python *PIP*, run the following at the Terminal command (if you are running JUPYTER notebook on VSCode).
 
 ```
 pip install InsertThePackageNameHere
