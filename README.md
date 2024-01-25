@@ -8,7 +8,7 @@ This repository contains the code for a system that converts any given image wit
 
 ## Features
 
-- **Image Processing:** Converts the original input image to [BGR image](https://stackoverflow.com/questions/367449/what-exactly-is-bgr-color-space), and [grayscaled image](https://www.vfpresets.com/lightroom-glossary/grayscale/#:~:text=Grayscale%2C%20in%20photography%2C%20is%20a,are%20actually%20not%20the%20same.). 
+- **Image Processing:** Converts the original input image to [BGR image](https://stackoverflow.com/questions/367449/what-exactly-is-bgr-color-space), and [grayscale image](https://www.vfpresets.com/lightroom-glossary/grayscale/#:~:text=Grayscale%2C%20in%20photography%2C%20is%20a,are%20actually%20not%20the%20same.). 
 
 - **Image-to-Text Conversion:** uses a sophisticated image processing method called *[EasyOCR](https://github.com/JaidedAI/EasyOCR)*, that is based on deep learning to convert the image into written text.
 
